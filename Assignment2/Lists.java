@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public class Listproblem {
+public class Lists {
     public static void main(String[] args)
     {
         List<Integer> arraylist = new ArrayList<>();
@@ -72,4 +72,5 @@ public class Listproblem {
      }
     
 }
+
 
