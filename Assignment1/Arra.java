@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sample 
+public class Arra 
 {
     
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class sample
             }
         System.out.println("This is the sum of all element : " + sum);     // This is the sum of array
         int avg =sum/5;
-        System.out.println("This is the sum of all element : " + avg);     // This is the avg of array
+        System.out.println("This is the avg of all element : " + avg);     // This is the avg of array
         
         int num =arr[0];
         for(int i=0;i<4;i++)
@@ -28,7 +28,8 @@ public class sample
                 num=arr[i+1];
             }  
         }
-        System.out.print(+num);   //This is the larger no of array                                       
+        System.out.print("this is the largest element in array : "+num);   //This is the larger no array                                       
     }
 }
     
+
